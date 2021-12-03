@@ -1,4 +1,8 @@
-# Terraform Provider Hashicups
+# Description
+
+This repository implements the terraform's provider creation tutorial available from https://learn.hashicorp.com/tutorials/terraform/provider-debug?in=terraform/providers
+
+## Building
 
 Run the following command to build the provider
 
